@@ -1,0 +1,13 @@
+.glass {
+  font-weight: bold;
+  text-shadow: skyblue 2px 5px;
+  text-decoration: underline;
+}
+.cup {
+  text-decoration: underline;
+  color: blue;
+}
+.spoon {
+  text-align: center;
+  color: skyblue;
+}
