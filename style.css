@@ -1,6 +1,6 @@
 .glass {
   font-weight: bold;
-  text-shadow: skyblue 2px 5px;
+  text-shadow: white 2px 5px;
   text-decoration: underline;
 }
 .cup {
@@ -10,4 +10,8 @@
 .spoon {
   text-align: center;
   color: skyblue;
+}
+.plate {
+  color: skyblue;
+  font-style: italic;
 }
