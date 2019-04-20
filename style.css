@@ -4,18 +4,18 @@
 
 .glass {
   font-weight: bold;
-  text-shadow: white 2px 5px;
+  text-shadow: black 2px 5px;
   text-decoration: underline;
 }
 .cup {
   text-decoration: underline;
-  color: blue;
+  color: purple;
 }
 .spoon {
   text-align: center;
-  color: skyblue;
+  color: purple;
 }
 .plate {
-  color: skyblue;
+  color: purple;
   font-style: italic;
 }
