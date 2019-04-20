@@ -14,10 +14,12 @@
 .spoon {
   text-align: center;
   color: purple;
+  text-decoration: underline;
 }
 .plate {
   color: purple;
   font-style: italic;
+  text-decoration: underline;
 }
 .Num {
   color: green;
