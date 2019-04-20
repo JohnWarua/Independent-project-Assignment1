@@ -1,3 +1,7 @@
+.body {
+  background-color: skyblue;
+}
+
 .glass {
   font-weight: bold;
   text-shadow: white 2px 5px;
